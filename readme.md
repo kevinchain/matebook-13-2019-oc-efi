@@ -62,6 +62,9 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 
 在这里下载由Heporis制作的ComboJack.
 
+https://github.com/hackintosh-stuff/ComboJack
+
+
 终端运行下面路径的脚本
 
 ComboJack_Installer/install.sh
