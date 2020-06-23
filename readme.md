@@ -69,12 +69,16 @@ ComboJack_Installer/install.sh
 
 
 开启HIDPI：
+
 https://github.com/xzhih/one-key-hidpi
 
 
 解锁CFG：
+
 https://zhuanlan.zhihu.com/p/121655468
+
 先去华为官网升级bios至1.27
+
 然后找偏移地址就不用做了，我告诉你，就是0x3E
 
 
@@ -94,9 +98,16 @@ https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%94%AF%E4%BB%9
 
 
 感谢：
+
 @intel 感谢10年一管牙膏
+
 @apple 感谢创造出macos
+
 @zxystd 感谢创造出wifi以及蓝牙的驱动
+
 @MoZyo 教会了我很多东西
+
 @Edoardo001 我做黑苹果的入门引路人 感谢他在matebook13的clover版efi上的杰出贡献
+
 @Zero-zer0 参考了他的热键修复方法 十分感谢
+
