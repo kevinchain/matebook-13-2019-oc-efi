@@ -1,7 +1,7 @@
 # matebook-13-2019-oc-efi 黑苹果 hackintosh
   
   
-##正常可用的部件：
+## 正常可用的部件：
   
   
 1.蓝牙（无需热启动）From IntelBluetoothFirmware @zxystd
@@ -26,7 +26,7 @@
 
   
   
-##无法正常工作的部件：  
+## 无法正常工作的部件：  
 
 
 1.摄像头（这个看命，有的人能用）
@@ -36,13 +36,14 @@
 3.mx250独显（这个是废话）
 
   
-##  
+##个人使用版本信息等   
 oc版本0.5.8
 
 自用macos版本：10.15.5. 
 
+matebook2019 i7-8565u mx250 sn720
 
-##安装方法：  
+## 安装方法：  
 
 
 先于此blog下载：10.15.5 19F101 双EFI分区版
@@ -54,12 +55,12 @@ oc版本0.5.8
   
     
       
-##安装视频教程：
+## 安装视频教程：
 
 https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
   
   
-##安装注意点：  
+## 安装注意点：  
 
 
 1.安装使用的镜像推荐使用我给的链接下载的那个，不要用他给的，以内有点旧了
@@ -70,7 +71,7 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
   
   
 
-##安装ComboJack实现耳机耳麦切换，改进电流声。
+## 安装ComboJack实现耳机耳麦切换，改进电流声。
 
 在这里下载由Heporis制作的ComboJack.
 
@@ -84,7 +85,7 @@ ComboJack_Installer/install.sh
   
 
 
-##开启HIDPI：
+## 开启HIDPI：
 
 https://github.com/xzhih/one-key-hidpi
  
@@ -96,7 +97,7 @@ https://github.com/xzhih/one-key-hidpi
 分辨率输入的是 1600x1066 1343x895 2160x1440
   
   
-##解锁CFG：
+## 解锁CFG：
 
 https://zhuanlan.zhihu.com/p/121655468
 
@@ -110,7 +111,7 @@ https://zhuanlan.zhihu.com/p/121655468
     
       
       
-##最近在努力解决摄像头问题，要是想打赏小的，请选择一个你喜欢的方式，谢谢！
+## 最近在努力解决摄像头问题，要是想打赏小的，请选择一个你喜欢的方式，谢谢！
 
 
 微信收款码链接：
@@ -128,7 +129,7 @@ https://zhuanlan.zhihu.com/p/121655468
     
     
 
-##感谢：
+## 感谢：
 
 @intel 感谢10年一管牙膏
 
