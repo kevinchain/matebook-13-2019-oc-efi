@@ -91,12 +91,12 @@ https://zhuanlan.zhihu.com/p/121655468
 
 
 微信收款码链接：
-![image]
-(https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E5%BE%AE%E4%BF%A1.jpg?raw=true)
+
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E5%BE%AE%E4%BF%A1.jpg?raw=true)
 
 支付宝收款码链接：
-![image]
-(https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?raw=true)
+
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?raw=true)
 
 
 
