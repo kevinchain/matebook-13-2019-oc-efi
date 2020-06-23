@@ -90,11 +90,11 @@ ComboJack_Installer/install.sh
 https://github.com/xzhih/one-key-hidpi
  
 
-我说下我的选择：
-第一步选择 开启HiDPi
-第二步选择 保持原样
-第三步选择 手动输入分辨率
-分辨率输入的是 1600x1066 1343x895 2160x1440
+我说下我的选择：  
+第一步选择 开启HiDPi  
+第二步选择 保持原样  
+第三步选择 手动输入分辨率  
+分辨率输入的是 1600x1066 1343x895 2160x1440  
   
   
 ## 解锁CFG：
