@@ -1,7 +1,9 @@
 # matebook-13-2019-oc-efi 黑苹果 hackintosh
-
+  
+  
 正常可用的部件：
-
+  
+  
 1.蓝牙（无需热启动）From IntelBluetoothFirmware @zxystd
 
 2.wifi （需要用propertree注入你自己的ssid跟password）可以做到无违和感使用 From itlwm @zxystd
@@ -22,8 +24,10 @@
 
 10.键盘快捷键正常
 
+  
+  
+无法正常工作的部件：  
 
-无法正常工作的部件：
 
 1.摄像头（这个看命，有的人能用）
 
@@ -31,12 +35,15 @@
 
 3.mx250独显（这个是废话）
 
-
+  
+  
 oc版本0.5.8
 
-自用macos版本：10.15.5
+自用macos版本：10.15.5. 
 
-安装方法：
+
+安装方法：  
+
 
 先于此blog下载：10.15.5 19F101 双EFI分区版
 
@@ -44,19 +51,24 @@ oc版本0.5.8
 
 下载链接
 ：https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html
-
+  
+    
+      
 安装视频教程：
 
 https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
+  
+  
+安装注意点：  
 
-安装注意点：
 
 1.安装使用的镜像推荐使用我给的链接下载的那个，不要用他给的，以内有点旧了
 
 2. 视频的【14:37】开始他开始吧u盘的clover efi复制进ESR（EFI）分区，这一步复制我的efi进去
 
 3. 视频的【16:44】开始是使用easyuefi创建efi引导，这一步前面都跟他视频一样，他怎么点你就怎么点，只不过，选择引导文件为：EFI/BOOT/BOOTx64.efi
-
+  
+  
 
 安装ComboJack实现耳机耳麦切换，改进电流声。
 
@@ -68,14 +80,16 @@ https://github.com/hackintosh-stuff/ComboJack
 终端运行下面路径的脚本
 
 ComboJack_Installer/install.sh
-
+  
+  
 
 
 开启HIDPI：
 
 https://github.com/xzhih/one-key-hidpi
 
-
+  
+  
 解锁CFG：
 
 https://zhuanlan.zhihu.com/p/121655468
@@ -86,19 +100,27 @@ https://zhuanlan.zhihu.com/p/121655468
 
 
 
-
+  
+    
+      
+      
 最近在努力解决摄像头问题，要是想打赏小的，请选择一个你喜欢的方式，谢谢！
 
 
 微信收款码链接：
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E5%BE%AE%E4%BF%A1.jpg?raw=true)
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E5%BE%AE%E4%BF%A1.jpg?raw=true). 
+  
+  
 
 支付宝收款码链接：
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?raw=true)
 
-
+  
+  
+    
+    
 
 感谢：
 
