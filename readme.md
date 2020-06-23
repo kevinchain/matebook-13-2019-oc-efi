@@ -1,4 +1,4 @@
-# matebook-13-2019-oc-efi
+# matebook-13-2019-oc-efi 黑苹果 hackintosh
 
 正常可用的部件：
 
