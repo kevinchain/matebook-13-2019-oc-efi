@@ -58,8 +58,31 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 3. 视频的【16:44】开始是使用easyuefi创建efi引导，这一步前面都跟他视频一样，他怎么点你就怎么点，只不过，选择引导文件为：EFI/BOOT/BOOTx64.efi
 
 
+安装ComboJack实现耳机耳麦切换，改进电流声。
+
+在这里下载由Heporis制作的ComboJack.
+
+终端运行下面路径的脚本
+
+ComboJack_Installer/install.sh
+
+
+
+开启HIDPI：
+https://github.com/xzhih/one-key-hidpi
+
+
+解锁CFG：
+https://zhuanlan.zhihu.com/p/121655468
+先去华为官网升级bios至1.27
+然后找偏移地址就不用做了，我告诉你，就是0x3E
+
+
+
 
 最近在努力解决摄像头问题，要是想打赏小的，请选择一个你喜欢的方式，谢谢！
+
+
 微信收款码链接：
 
 https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E5%BE%AE%E4%BF%A1.jpg?raw=true
@@ -69,3 +92,11 @@ https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E5%BE%AE%E4%BF%A
 https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?raw=true
 
 
+
+感谢：
+@intel 感谢10年一管牙膏
+@apple 感谢创造出macos
+@zxystd 感谢创造出wifi以及蓝牙的驱动
+@MoZyo 教会了我很多东西
+@Edoardo001 我做黑苹果的入门引路人 感谢他在matebook13的clover版efi上的杰出贡献
+@Zero-zer0 参考了他的热键修复方法 十分感谢
